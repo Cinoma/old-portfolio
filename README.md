@@ -1,4 +1,5 @@
-## :wave:Hi There!:eyes:
+:point_right::point_right: https://cinoma.github.io/Cinoma/ :point_left::point_left:
+## 👋Hi There!  👀
 Thank you so much for checking out my Portfolio. It's still a work in progress but I wanted to showcase some of the skills I already have
 including my ability to release subsequent improved iterations with detailed comments.    
 
