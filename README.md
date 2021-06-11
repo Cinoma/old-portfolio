@@ -1,4 +1,4 @@
-## :wave:Hi There!
+## :wave:Hi There!:eyes:
 Thank you so much for checking out my Portfolio. It's still a work in progress but I wanted to showcase some of the skills I already have
 including my ability to release subsequent improved iterations with detailed comments.    
 
