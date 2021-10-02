@@ -13,3 +13,4 @@ including my ability to release subsequent improved iterations with detailed com
 - Full Search Bar functionality.
 - Drastically Improved Performance (measured by Google Lighthouse).
 - Projects implemented using Bootstrap Modal components.
+- Add React to refactor code for better performance, scalability, and ease of development.
