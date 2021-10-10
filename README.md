@@ -1,6 +1,6 @@
-:point_right::point_right: https://cinoma.github.io/Cinoma/ :point_left::point_left:
+:point_right::point_right: Check out my [Portfolio](https://cinoma.github.io/Cinoma/) :point_left::point_left:
 ## 👋Hi There!  👀
-Thank you so much for checking out my Portfolio. It's still a work in progress but I wanted to showcase some of the skills I already have
+Thank you so much for checking out my Github and Portfolio. It's still a work in progress but I wanted to showcase some of the skills I already have
 including my ability to release subsequent improved iterations with detailed comments.    
 
 ### :computer:Bug List:
@@ -13,3 +13,4 @@ including my ability to release subsequent improved iterations with detailed com
 - Full Search Bar functionality.
 - Drastically Improved Performance (measured by Google Lighthouse).
 - Projects implemented using Bootstrap Modal components.
+- Add React to refactor code for better performance, scalability, and ease of development.
