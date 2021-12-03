@@ -1,0 +1,1 @@
+crop ratio = 7:5
