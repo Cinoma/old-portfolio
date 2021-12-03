@@ -4,13 +4,13 @@ Thank you so much for checking out my Github and Portfolio. It's still a work in
 including my ability to release subsequent improved iterations with detailed comments.    
 
 ### :computer:Bug List:
-- Search Bar is currently just a placeholder and functionality will be added at a later date. 
-- Banner Image sometimes overlaps "About Me" content.
-- Projects Section is still work in progress. Placeholder images are present, and buttons don't lead anywhere yet.
-- ~~Banner having scaling issues on the desktop version of Chrome & Safari browsers.~~
+- [ ] Search Bar is currently just a placeholder and functionality will be added at a later date. 
+- [ ] Banner Image sometimes overlaps "About Me" content.
+- [ ] Projects Section is still work in progress. Placeholder images are present, and buttons don't lead anywhere yet.
+- [X] ~~Banner having scaling issues on the desktop version of Chrome & Safari browsers.~~
 
 ### :computer:Upcoming Features
-- Full Search Bar functionality.
-- Drastically Improved Performance (measured by Google Lighthouse).
-- Projects implemented using Bootstrap Modal components.
-- Add React to refactor code for better performance, scalability, and ease of development.
+- [ ] Full Search Bar functionality.
+- [ ] Drastically Improved Performance (measured by Google Lighthouse).
+- [ ] Projects implemented using Bootstrap/MUI Modal components.
+- [ ] Add React to refactor code for better performance, scalability, and ease of development.
