@@ -1,4 +1,4 @@
-:point_right::point_right: Check out my [Portfolio](https://cinoma.github.io/Cinoma/) :point_left::point_left:
+:point_right::point_right: Check out my [Portfolio](https://cinoma.github.io/) :point_left::point_left:
 ## 👋Hi There!  👀
 Thank you so much for checking out my Github and Portfolio. It's still a work in progress but I wanted to showcase some of the skills I already have
 including my ability to release subsequent improved iterations with detailed comments.    
